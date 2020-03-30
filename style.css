@@ -1,0 +1,6 @@
+.ui-draggable {
+  cursor: grab;
+}
+.ui-draggable-dragging {
+  cursor: grabbing;
+}
